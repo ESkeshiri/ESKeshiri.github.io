@@ -13,54 +13,57 @@ LIST RECEIPT
 
 - **Taylor Swift**
 
-Mine
+-Mine
 
-All too well
+-All too well
 
-Cruel
+-Cruel
 
-Dancing while our hands tired
+-Dancing while our hands tired
 
-Cruel Summer
+-Cruel Summer
 
 - **Keshi**
 
-Summer
+-Summer
 
-Less of you
+-Less of you
 
-Blue
+-Blue
 
-2 soon
+-2 soon
 
-over uatlas
+-over u
+
+-atlas
 
 - **My Chemical Romance**
 
 Disenchanted
 
-i'm not okay(I promise)
+-I'm not okay(I promise)
 
-i don't love you
+-I don't love you
 
-The end
+-The end
 
-famous last words
+-famous last words
 
-Teenagers
+-Teenagers
 
 - **andom**
-Lie to me- 5sos
 
-Fallin' All in you- Shawn Mendes
+-Lie to me- 5sos
 
-Shouldn't be- Luke chiang
+-Fallin' All in you- Shawn Mendes
 
-Sweet baby- stanley Clarke, George Duke
+-Shouldn't be- Luke chiang
 
-japanese Denim- Daniel Caesar
+-Sweet baby- stanley Clarke, George Duke
 
-Love Maze- BTS
+-japanese Denim- Daniel Caesar
+
+-Love Maze- BTS
 
 
 ![ella_](https://user-images.githubusercontent.com/100207878/155871164-e2131747-ac97-4f99-94a8-8faf2c27592e.jpg)
@@ -68,6 +71,8 @@ Love Maze- BTS
   _Lara Estrada- Gonzales A_
   
   _Gain Oloya_
+
+For more songs:
 
 (https://open.spotify.com/playlist/0NsspEXo4r3kOhmkZ4v316?si=3ef283c43e274037) 
 ```
