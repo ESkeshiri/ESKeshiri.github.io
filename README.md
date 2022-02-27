@@ -7,22 +7,45 @@ Full of Chill,K-pop,love and sad songs<3
 KESH PLAYLIST
 
 
+LIST RECEIPT
 
-List Receipt
-![fff74b66-7f57-4bb4-b80c-0b11f9729b11](https://user-images.githubusercontent.com/100207878/155870525-d495514b-d4ec-444c-9491-de99a604072f.jpg)
-![_keshi – _right here](https://user-images.githubusercontent.com/100207878/155870362-8001b27a-6485-4780-8bc9-1acab923bbc0.png)
+![𖦹](https://user-images.githubusercontent.com/100207878/155870763-22976be0-c6d2-4482-b3ed-ffdba154a6dc.jpg)
+
+- Taylor Swift
+Mine
+All too well
+Cruel
+Dancing while our hands tired
+Cruel Summer
+- Keshi
+Summer
+Less of you
+Blue
+2 soon
+over uatlas
+- My Chemical Romance
+Disenchanted
+i'm not okay(I promise)
+i don't love you
+The end
+famous last words
+Teenagers
+
+- Random
+Lie to me- 5sos
+Fallin' All in you- Shawn Mendes
+Shouldn't be- Luke chiang
+Sweet baby- stanley Clarke, George Duke
+japanese Denim- Daniel Caesar
+Love Maze- BTS
 
 
+![ella_](https://user-images.githubusercontent.com/100207878/155871164-e2131747-ac97-4f99-94a8-8faf2c27592e.jpg)
 
-- Bulleted
-- List
+  _Lara Estrada- Gonzales A_
+  _Gain Oloya_
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+(https://open.spotify.com/playlist/0NsspEXo4r3kOhmkZ4v316?si=3ef283c43e274037) 
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
