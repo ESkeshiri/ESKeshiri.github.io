@@ -11,38 +11,62 @@ LIST RECEIPT
 
 ![𖦹](https://user-images.githubusercontent.com/100207878/155870763-22976be0-c6d2-4482-b3ed-ffdba154a6dc.jpg)
 
-- Taylor Swift
+- **Taylor Swift**
+
 Mine
+
 All too well
+
 Cruel
+
 Dancing while our hands tired
+
 Cruel Summer
-- Keshi
+
+- **Keshi**
+
 Summer
+
 Less of you
+
 Blue
+
 2 soon
+
 over uatlas
-- My Chemical Romance
+
+- **My Chemical Romance**
+
 Disenchanted
+
 i'm not okay(I promise)
+
 i don't love you
+
 The end
+
 famous last words
+
 Teenagers
 
-- Random
+- **andom**
 Lie to me- 5sos
+
 Fallin' All in you- Shawn Mendes
+
 Shouldn't be- Luke chiang
+
 Sweet baby- stanley Clarke, George Duke
+
 japanese Denim- Daniel Caesar
+
 Love Maze- BTS
 
 
 ![ella_](https://user-images.githubusercontent.com/100207878/155871164-e2131747-ac97-4f99-94a8-8faf2c27592e.jpg)
 
   _Lara Estrada- Gonzales A_
+  
   _Gain Oloya_
 
 (https://open.spotify.com/playlist/0NsspEXo4r3kOhmkZ4v316?si=3ef283c43e274037) 
