@@ -10,7 +10,8 @@ KESH PLAYLIST
 
 List Receipt
 
-![Uploading Lover by Taylor Swift.png…]()
+![Lover by Taylor Swift](https://user-images.githubusercontent.com/100207878/155870377-2ff18257-82a4-4462-86d3-aef3299477a3.png)
+![_keshi – _right here](https://user-images.githubusercontent.com/100207878/155870362-8001b27a-6485-4780-8bc9-1acab923bbc0.png)
 
 
 
