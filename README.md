@@ -66,7 +66,7 @@ Disenchanted
 -Love Maze- BTS
 
 
-![ella_](https://user-images.githubusercontent.com/100207878/155871164-e2131747-ac97-4f99-94a8-8faf2c27592e.jpg)
+![download (1)](https://user-images.githubusercontent.com/100207878/155871538-390c1b26-0175-4960-8b18-818d33db57a9.png)
 
   _Lara Estrada- Gonzales A_
   
@@ -77,4 +77,4 @@ For more songs:
 (https://open.spotify.com/playlist/0NsspEXo4r3kOhmkZ4v316?si=3ef283c43e274037) 
 ```
 
-![download (1)](https://user-images.githubusercontent.com/100207878/155871538-390c1b26-0175-4960-8b18-818d33db57a9.png)
+
