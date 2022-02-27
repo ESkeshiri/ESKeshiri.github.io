@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Kesh Website!
 
-You can use the [editor on GitHub](https://github.com/ESkeshiri/ESKeshiri.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We will see here some of my favourite music and reccomendations
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Full of Chill,kpop ,love and sad songs<3
 
-### Markdown
+KESH PLAYLIST
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
