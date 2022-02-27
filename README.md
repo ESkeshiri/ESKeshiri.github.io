@@ -51,7 +51,7 @@ Disenchanted
 
 -Teenagers
 
-- **andom**
+- **Random**
 
 -Lie to me- 5sos
 
