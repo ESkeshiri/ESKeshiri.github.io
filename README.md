@@ -47,7 +47,7 @@ Disenchanted
 
 -The end
 
--famous last words
+-Famous last words
 
 -Teenagers
 
@@ -61,7 +61,7 @@ Disenchanted
 
 -Sweet baby- stanley Clarke, George Duke
 
--japanese Denim- Daniel Caesar
+-Japanese Denim- Daniel Caesar
 
 -Love Maze- BTS
 
@@ -70,19 +70,11 @@ Disenchanted
 
   _Lara Estrada- Gonzales A_
   
-  _Gain Oloya_
+  _Sir Gain Oloya_
 
 For more songs:
 
 (https://open.spotify.com/playlist/0NsspEXo4r3kOhmkZ4v316?si=3ef283c43e274037) 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ESkeshiri/ESKeshiri.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![download (1)](https://user-images.githubusercontent.com/100207878/155871538-390c1b26-0175-4960-8b18-818d33db57a9.png)
