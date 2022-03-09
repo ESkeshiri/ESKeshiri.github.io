@@ -2,7 +2,7 @@
 
 We will see here some of my favourite music and recommendations
 
-Full of Chill,K-pop,love and sad songs<3
+With love,rock,chill<3
 
 KESH PLAYLIST
 
